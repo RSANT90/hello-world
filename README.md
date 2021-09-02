@@ -2,4 +2,4 @@
 Just another repository.
 
 Just practicing using github. 
-Now I'm adding this sentence,
+Now I'm adding this sentence.
